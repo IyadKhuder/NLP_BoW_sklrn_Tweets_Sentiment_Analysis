@@ -1,6 +1,9 @@
 # NLP_BoW_sklrn_Tweets_Sentiment_Analysis
 
-Applied Text Mining and Sentiment Analysis with Python
+Applied Text Mining and Sentiment Analysis with Python 
+* Framework: Scikit-Learn
+* Class: CountVectorizer
+
 In this Notebook, I'm applying the following concepts/tools to build a model that is able to do a Sentiment Analysis on a dataset of tweets:
 
 
